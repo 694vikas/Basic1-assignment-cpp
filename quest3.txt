@@ -1,0 +1,5 @@
+// Q3. How much space does the following data types take?
+ ANS->  int -4bytes
+  bool -1bytes
+   float-4bytes
+ -> it also depend on which system your are using 64version or 32bit version;
